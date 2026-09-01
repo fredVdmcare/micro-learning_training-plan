@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "maj": "2026-09-01T13:50:27.085Z",
+  "maj": "2026-09-01T14:00:08.496Z",
   "champs": {
     "INT-0101.meta.auteur": "Fred",
     "INT-0101.texte.principal": "Bienvenue sur mediaspot®, la solution Media Asset Management (MAM) de VDM dédiée à la distribution et à l'exploitation des programmes. Ce service a été conçu pour vous permettre de gérer, fabriquer et livrer tous types de formats de fichiers aux diffuseurs, plateformes VoD, salles de cinéma, agences de presse, etc. En suivant ce parcours de formation en ligne, vous serez en mesure d'importer des fichiers, de partager des liens de visionnage et de commander des transcodages, des PAD et d'organiser des livraisons.",
@@ -10,7 +10,7 @@
   },
   "statuts": {
     "INT-0101": "en-redaction",
-    "INT-0102": "a-definir"
+    "INT-0102": "en-redaction"
   },
   "retires": {},
   "listes": {},
